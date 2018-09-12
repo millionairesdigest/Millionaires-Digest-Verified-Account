@@ -1,6 +1,6 @@
-== Millionaire's Digest Widgets ===
+== Millionaire's Digest Verified Accounts ===
 Contributors: K&L
-Tags: Millionaire's Digest, Widgets
+Tags: Millionaire's Digest, Verified Accounts
 Requires at least: 4.5.7
 Tested up to: 4.9.1
 Stable tag: 1.0.0
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Add widgets specifically created for the Millionaire's Digest made by the Founder & CEO of the Millionaire's Digest
+Allow accounts to be displayed as verified set and controlled by the Founder & CEO of the Millionaire's Digest with special thanks and all credits going to Modemlooper for the original plugin.
 
 == Installation ==
 
