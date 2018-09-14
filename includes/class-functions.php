@@ -151,7 +151,7 @@ function bp_show_verified_badge_username( $object ) {
 
 	return $object;
 }
-add_filter( 'bp_is_user', 'bp_show_verified_badge_username' );
+add_filter( 'bp_get_displayed_user_mentionname', 'bp_show_verified_badge_username' );
 
 
 /**
