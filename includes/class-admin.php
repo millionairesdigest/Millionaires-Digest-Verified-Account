@@ -9,7 +9,7 @@
 /**
  * BuddyVerified Admin.
  *
- * @since 2.4.0
+ * @since 2.4.0A
  */
 class BV_Admin {
 	/**
