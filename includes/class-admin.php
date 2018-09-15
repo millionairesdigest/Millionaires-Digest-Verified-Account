@@ -243,7 +243,6 @@ function buddyverified_inner_meta_box() {
 				<td><img src="<?php echo esc_url( VERIFIED_URL ); ?>/images/4.png"></td>
 				<td><img src="<?php echo esc_url( VERIFIED_URL ); ?>/images/5.png"></td>
 				<td><img src="<?php echo esc_url( VERIFIED_URL ); ?>/images/6.png"></td>
-				<td><img src="<?php echo esc_url( VERIFIED_URL ); ?>/images/7.png"></td>
 			</tr>
 			<tr class="alt">
 				<td></td>
@@ -254,7 +253,6 @@ function buddyverified_inner_meta_box() {
 				<td><input type="radio" name="verified_image" value="4" <?php if ( '4' === $meta['image'] ) { echo 'checked="checked"'; } ?> /></td>
 				<td><input type="radio" name="verified_image" value="5" <?php if ( '5' === $meta['image'] ) { echo 'checked="checked"'; } ?> /></td>
 				<td><input type="radio" name="verified_image" value="6" <?php if ( '6' === $meta['image'] ) { echo 'checked="checked"'; } ?> /></td>
-				<td><input type="radio" name="verified_image" value="7" <?php if ( '7' === $meta['image'] ) { echo 'checked="checked"'; } ?> /></td>
 			</tr>
 			<tr class="alt">
 				<td style="vertical-align:top">Activity Badge:</td>
